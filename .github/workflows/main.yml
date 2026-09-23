@@ -1,4 +1,4 @@
-iname: CI Unit Tests
+name: CI Unit Tests
 
 on:
   push:
